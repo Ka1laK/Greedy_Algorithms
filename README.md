@@ -56,9 +56,6 @@ ALGORITMO DE DIJKSTRA
 
 Los mejores caminos son: 
 
-        Camino  Costo
-1      A-C-M-N     19
-2    A-C-D-M-N     19
-3    A-C-M-K-N     19
-4  A-C-D-M-K-N     19
+![image](https://github.com/Ka1laK/Greedy_Algorithms/assets/126707625/f4b1b6f9-0155-4ec5-94ee-d638036fc657)
+
 
